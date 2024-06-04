@@ -1,0 +1,5 @@
+# Mengabaikan file env
+.env
+
+# Mengabaikan folder dependensi Node.js
+node_modules/
